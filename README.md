@@ -37,16 +37,17 @@ new column of distance
 new columns (hour,day,month...)
 <img width="1919" height="1017" alt="Screenshot 2025-07-26 162809" src="https://github.com/user-attachments/assets/cdfe8f72-7747-461f-a4bf-e4101cff12db" />
 then saving it to the new data frame (cleaned data set)
-<img width="1559" height="687" alt="Screenshot 2025-07-26 190726" src="https://github.com/user-attachments/assets/a2917411-1678-40a2-9cf1-b0f26467719c" />
-
+  after that i extracted the new cleaned data set and loaded it in power bi for analysis
 <img width="578" height="260" alt="Screenshot 2025-07-27 095112" src="https://github.com/user-attachments/assets/0339ce5b-b2cc-422b-b4db-e1797c3392bb" />
-
+this shows the fare patterns across different time intervals
 <img width="1854" height="932" alt="Screenshot 2025-07-27 102703" src="https://github.com/user-attachments/assets/09e92af2-52c5-4c96-ab23-54a1da09e92d" />
-
+and this shows the hourly, daily, and monthly ride patterns
 <img width="1919" height="1003" alt="Screenshot 2025-07-27 102654" src="https://github.com/user-attachments/assets/a02682bf-0303-4fff-bcc9-156a70cbffdd" />
-
+and then this shows the Seasonal trends and variations
 <img width="1887" height="969" alt="Screenshot 2025-07-27 102712" src="https://github.com/user-attachments/assets/b69d4fd6-8e62-4a41-8d6b-307da4ffaf75" />
-
-<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f9de913d-d328-4561-b913-031c1b780917" />
-
+this analyses the relationship between Fare amount and distance traveled
+but !!!!!!!!! here since we were given longitudes and latitudes there were some difficulties since the distance might have came wrong because the geopy was just doing a straight line from place A to B which in real life might be wrong because some charges were wrong forexample a person might go to a go in a circle all go pickup something and the ride is finished were he/she started the journey but here they calculate and find that he/she moved like 3 metres and paid more than a person who went 1 km therefore it's not accurate
 <img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/de6bd33b-1c83-47f9-b92a-fc921d54b096" />
+you can still see it here
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f9de913d-d328-4561-b913-031c1b780917" />
+these are DAX formulas used to create a new column (Timesofday)
