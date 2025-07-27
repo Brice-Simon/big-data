@@ -1,5 +1,5 @@
 <img width="1919" height="1005" alt="Screenshot 2025-07-26 161951" src="https://github.com/user-attachments/assets/b7ccdb2b-1d04-4d5b-8be5-f731e2895106" />
-
+Here i was importing library to use (pandas) and also initilisation of main DataFrame used in your Python code to store and process the cleaned Uber ride data and display 1st few data to know the format
 <img width="1795" height="807" alt="Screenshot 2025-07-26 162002" src="https://github.com/user-attachments/assets/dca4f861-86e9-4213-80ee-c2ee907e909c" />
 
 <img width="1557" height="670" alt="Screenshot 2025-07-26 162017" src="https://github.com/user-attachments/assets/a0fe52d5-4ef4-44bb-85b4-d5360c6a1281" />
