@@ -28,13 +28,13 @@ So, this contains very important data for analysis i.e ▪ Mean, median, standar
 <img width="1540" height="623" alt="Screenshot 2025-07-26 165520" src="https://github.com/user-attachments/assets/80fc0fce-4b16-4687-b59e-4677f3df50f5" />
 and then the mode provided
 <img width="1550" height="786" alt="Screenshot 2025-07-26 172355" src="https://github.com/user-attachments/assets/7402b236-c6b0-4088-bd0a-e224b16d44e1" />
-
+since fare amount can't be negative we also clean
 <img width="1825" height="746" alt="Screenshot 2025-07-26 190214" src="https://github.com/user-attachments/assets/eb52ff01-e57b-4ef4-8e28-eb2ee5fe8d3d" />
-
+install geopy for distance and so on and also set real latitudes and longitudes
 <img width="1513" height="797" alt="Screenshot 2025-07-26 190233" src="https://github.com/user-attachments/assets/7bf77c14-0257-4b2d-8ca0-c05fe5ebdaee" />
-
+new column of distance
 <img width="1910" height="624" alt="Screenshot 2025-07-26 190515" src="https://github.com/user-attachments/assets/a2c9bc19-02c8-4a63-b944-43401337c746" />
-
+new columns (hour,day,month...)
 <img width="1559" height="687" alt="Screenshot 2025-07-26 190726" src="https://github.com/user-attachments/assets/a2917411-1678-40a2-9cf1-b0f26467719c" />
 
 <img width="578" height="260" alt="Screenshot 2025-07-27 095112" src="https://github.com/user-attachments/assets/0339ce5b-b2cc-422b-b4db-e1797c3392bb" />
