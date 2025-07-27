@@ -1,15 +1,24 @@
 <img width="1919" height="1005" alt="Screenshot 2025-07-26 161951" src="https://github.com/user-attachments/assets/b7ccdb2b-1d04-4d5b-8be5-f731e2895106" />
 Here i was importing library to use (pandas) and also initilisation of main DataFrame used in your Python code to store and process the cleaned Uber ride data and display 1st few data to know the format
 <img width="1795" height="807" alt="Screenshot 2025-07-26 162002" src="https://github.com/user-attachments/assets/dca4f861-86e9-4213-80ee-c2ee907e909c" />
+this uber_df.info() displays the All columns are filled — no missing (null) values.
 
+Data types:
+
+datetime64[ns] for timestamps
+
+float64 for coordinates, fares, and distances
+
+int64 for numerical time features
+
+object for text like day names and time categories
 <img width="1557" height="670" alt="Screenshot 2025-07-26 162017" src="https://github.com/user-attachments/assets/a0fe52d5-4ef4-44bb-85b4-d5360c6a1281" />
-
+drops null values raw
 <img width="1585" height="873" alt="Screenshot 2025-07-26 162045" src="https://github.com/user-attachments/assets/60b6bcde-4210-409a-ba12-7d4d09eefa95" />
-
 <img width="1910" height="975" alt="Screenshot 2025-07-26 162101" src="https://github.com/user-attachments/assets/b7714eb5-e2d6-47e3-82ec-701f067b7164" />
-
+changed name column names, droped raw with 0 values, reset index
 <img width="1771" height="881" alt="Screenshot 2025-07-26 162128" src="https://github.com/user-attachments/assets/00586b77-c92c-440b-ba14-406204d16735" />
-
+display with new names
 <img width="1522" height="733" alt="Screenshot 2025-07-26 162745" src="https://github.com/user-attachments/assets/411a5b09-cdac-48dd-94f4-263140aa0e55" />
 
 <img width="1919" height="1017" alt="Screenshot 2025-07-26 162809" src="https://github.com/user-attachments/assets/0c3a7c23-ba46-4b16-818b-e0b7d10afa0c" />
