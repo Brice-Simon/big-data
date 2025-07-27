@@ -35,6 +35,8 @@ install geopy for distance and so on and also set real latitudes and longitudes
 new column of distance
 <img width="1910" height="624" alt="Screenshot 2025-07-26 190515" src="https://github.com/user-attachments/assets/a2c9bc19-02c8-4a63-b944-43401337c746" />
 new columns (hour,day,month...)
+<img width="1919" height="1017" alt="Screenshot 2025-07-26 162809" src="https://github.com/user-attachments/assets/cdfe8f72-7747-461f-a4bf-e4101cff12db" />
+then saving it to the new data frame (cleaned data set)
 <img width="1559" height="687" alt="Screenshot 2025-07-26 190726" src="https://github.com/user-attachments/assets/a2917411-1678-40a2-9cf1-b0f26467719c" />
 
 <img width="578" height="260" alt="Screenshot 2025-07-27 095112" src="https://github.com/user-attachments/assets/0339ce5b-b2cc-422b-b4db-e1797c3392bb" />
