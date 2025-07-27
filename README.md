@@ -56,3 +56,4 @@ but !!!!!!!!! here since we were given longitudes and latitudes there were some 
 you can still see it here
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f9de913d-d328-4561-b913-031c1b780917" />
 these are DAX formulas used to create a new column (Timesofday)
+https://drive.google.com/file/d/1MHcscB17vjtvR72sjxME4CQ0u8Zb0lzU/view?usp=sharing
