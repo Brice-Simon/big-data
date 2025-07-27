@@ -57,3 +57,5 @@ you can still see it here
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f9de913d-d328-4561-b913-031c1b780917" />
 these are DAX formulas used to create a new column (Timesofday)
 
+and this is the preocess of pusshing 
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/7c13241a-8cc1-4c4e-9cf5-e30e51640196" />
