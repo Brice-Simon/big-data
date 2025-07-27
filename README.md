@@ -2,7 +2,7 @@
 
      NAMES:NSABIMANA SIMON BRICE
      ID: 27451
-
+This link is for the cleaned data set : https://drive.google.com/file/d/1MHcscB17vjtvR72sjxME4CQ0u8Zb0lzU/view?usp=sharing 
 <img width="1919" height="1005" alt="Screenshot 2025-07-26 161951" src="https://github.com/user-attachments/assets/b7ccdb2b-1d04-4d5b-8be5-f731e2895106" />
 Here i was importing library to use (pandas) and also initilisation of main DataFrame used in your Python code to store and process the cleaned Uber ride data and display 1st few data to know the format
 <img width="1795" height="807" alt="Screenshot 2025-07-26 162002" src="https://github.com/user-attachments/assets/dca4f861-86e9-4213-80ee-c2ee907e909c" />
@@ -56,4 +56,4 @@ but !!!!!!!!! here since we were given longitudes and latitudes there were some 
 you can still see it here
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f9de913d-d328-4561-b913-031c1b780917" />
 these are DAX formulas used to create a new column (Timesofday)
-https://drive.google.com/file/d/1MHcscB17vjtvR72sjxME4CQ0u8Zb0lzU/view?usp=sharing
+
